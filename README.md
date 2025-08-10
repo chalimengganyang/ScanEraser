@@ -5,8 +5,9 @@ macrofield cleaner cannot address adequately.
 # Data preparation
 The Epaper and Ebook datasets used for handwritten text removal research can be downloaded through the following links:
 
-Epaper - https://pan.baidu.com/s/1gPMinVglYJMNzcTckGkb3g (Password : ae93 ) //
-Ebook - https://pan.baidu.com/s/1TKdsoSBdCk3GxgliVtaB2Q (Password : ae93 ) 
+Epaper - [Baidu Cloud](https://pan.baidu.com/s/1gPMinVglYJMNzcTckGkb3g) (Password : ae93 )  
+
+Ebook - [Baidu Cloud](https://pan.baidu.com/s/1TKdsoSBdCk3GxgliVtaB2Q) (Password : ae93 )
 
 Note: The Epaper and Ebook dataset can only be used for non-commercial research purpose.
 # Training
