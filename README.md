@@ -14,12 +14,14 @@ Note: The Epaper and Ebook dataset can only be used for non-commercial research 
 Once the data is well prepared, you can begin training:
 
 ```bash
-python train_STE.py --batchSize 4 \
-  --dataRoot 'your path' \
-  --modelsSavePath 'your path' \
-  --logPath 'your path' \
+python train.py
 ```
 
 # Testing
+If you want to predict the results, run:
+
+```bash
+python test.py
+```
 
 # Citation
