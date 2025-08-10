@@ -11,6 +11,14 @@ Ebook - [Baidu Cloud](https://pan.baidu.com/s/1TKdsoSBdCk3GxgliVtaB2Q) (Password
 
 Note: The Epaper and Ebook dataset can only be used for non-commercial research purpose.
 # Training
+Once the data is well prepared, you can begin training:
+
+```bash
+python train_STE.py --batchSize 4 \
+  --dataRoot 'your path' \
+  --modelsSavePath 'your path' \
+  --logPath 'your path' \
+```
 
 # Testing
 
